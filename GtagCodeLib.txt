@@ -1,0 +1,27 @@
+""fly"
+
+
+
+using UnityEngine;
+
+public void Update() {
+
+// test file
+
+if(input) { Fly(); }
+
+}
+
+""tp"
+
+
+
+using UnityEngine;
+
+public void Update() {
+
+// test file
+
+if(input) { tp(); }
+
+}
