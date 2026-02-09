@@ -25,3 +25,17 @@ public void Update() {
 if(input) { tp(); }
 
 }
+
+""gay"
+
+
+
+using UnityEngine;
+
+public void Update() {
+
+// test file
+
+if(input) { gay(); }
+
+}
